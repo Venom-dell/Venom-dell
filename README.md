@@ -6,7 +6,7 @@ I'm an undergraduate Electronics and Telecommunication engineering student focus
 
 ### 🛠️ Technical Stack
 
-* **Embedded & Hardware:** Embedded C, Assembly, 8051 Microcontrollers, Arduino, Sensor Interfacing (IMU, ADC, Ultrasonic)
+* **Embedded & Hardware:** Embedded C, Assembly, Microcontrollers, Arduino, Sensor Interfacing (IMU, ADC, Ultrasonic)
 
 ### 🚀 Highlight Projects
 
